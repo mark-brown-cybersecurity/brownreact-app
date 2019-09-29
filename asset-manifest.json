@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/brownreact-app/static/css/main.b100e6da.chunk.css",
+    "main.js": "/brownreact-app/static/js/main.68c8d3f3.chunk.js",
+    "main.js.map": "/brownreact-app/static/js/main.68c8d3f3.chunk.js.map",
+    "runtime-main.js": "/brownreact-app/static/js/runtime-main.3ece75cc.js",
+    "runtime-main.js.map": "/brownreact-app/static/js/runtime-main.3ece75cc.js.map",
+    "static/js/2.8a934b75.chunk.js": "/brownreact-app/static/js/2.8a934b75.chunk.js",
+    "static/js/2.8a934b75.chunk.js.map": "/brownreact-app/static/js/2.8a934b75.chunk.js.map",
+    "index.html": "/brownreact-app/index.html",
+    "precache-manifest.e311dd90444f90939e1cac8fda226b00.js": "/brownreact-app/precache-manifest.e311dd90444f90939e1cac8fda226b00.js",
+    "service-worker.js": "/brownreact-app/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/brownreact-app/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/brownreact-app/static/media/logo.25bf045c.svg"
+  }
+}
