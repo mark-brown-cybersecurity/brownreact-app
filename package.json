@@ -6,7 +6,7 @@
     "gh-pages": "^2.1.1",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
-    "react-scripts": "3.1.2"
+    "react-scripts": "5.0.1"
   },
   "homepage": "https://markbrowncms.github.io/brownreact-app",
   "scripts": {
